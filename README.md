@@ -67,7 +67,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2&template=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DarksadasYT12/DARK-SHUTER-MD-V2&template=https://github.com/DarksadasYT12/DARK-SHUTER-MD-V2.git)
 
 <br>
 
